@@ -11,7 +11,7 @@
         <property name="driverClassName" value="com.mysql.jdbc.Driver"></property>  
         <property name="url" value="jdbc:mysql://localhost/demo?characterEncoding=utf-8"></property>  
         <property name="username" value="root"></property>  
-        <property name="password" value="dc13526005039"></property>  
+        <property name="password" value="123"></property>  
     </bean>  
       
     <!-- 配置SessionFactory -->  
