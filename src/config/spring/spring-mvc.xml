@@ -16,8 +16,6 @@
     <!-- 开启注解 -->  
     <mvc:annotation-driven />  
       
-    <!-- 静态资源(js/image)的访问 -->  
-    <mvc:resources location="/js/" mapping="/js/**"/>
     <!-- 对静态资源文件的访问 -->
 	<mvc:resources mapping="/resources/**" location="/resources/" />
     
