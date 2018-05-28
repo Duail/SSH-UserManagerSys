@@ -5,9 +5,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
-<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="resources/jquery-3.3.1.min.js"></script>
+<link href="resources/css/bootstrap.min.css" rel="stylesheet">
+<script src="resources/js/bootstrap.min.js"></script>
 <!-- <script src="/demo/resources/json2.js"></script> -->
 <script type="text/javascript">
 $(function(){
