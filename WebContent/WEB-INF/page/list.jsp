@@ -125,9 +125,7 @@ th {
 	     		${pageInfo.page}
 	      		<span style="color: black" class="caret"></span>         
     		</button>
-  			
-		
-	      
+  			  
 	    <ul class="dropdown-menu" role="menu">
 	    	<c:forEach var="i" begin="1" end="${pageInfo.last}">
 	    		<li>
