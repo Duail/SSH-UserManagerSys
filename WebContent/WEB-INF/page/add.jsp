@@ -11,7 +11,7 @@
 <script type="text/javascript">
 function saveSure() {
 	if (confirm("确认保存？")) {
-		if ($("input:first").val() != ""){
+		if ($("input:first").val() != "") {
 			return ture;
 		}
 		alert("姓名不能为空");
