@@ -29,7 +29,7 @@ public class LoginController {
 	@RequestMapping(value = "managerLogout")
 	public String logout(HttpSession session) {
 		session.invalidate();
-		return "redirece:login";
+		return "redirect:login";
 	}
 	
 	@RequestMapping(value = "checkManager")
